@@ -31,7 +31,8 @@ main {
     /* padding: 44px 24px 23px ; cima esquerda,direita baixo */
     padding:44px 24px 23px ;
     margin-top: 5%;
-    filter: drop-shadow(0 0 2em #f4f4f4);
+    filter: drop-shadow(0 0 2em #772fd3);
+    border: 3px solid #772fd3;
 }
 
 label {
